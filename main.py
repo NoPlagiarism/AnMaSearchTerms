@@ -2,8 +2,6 @@ import os
 import re
 import json
 
-import httpx
-
 MALSYNC_PATH = os.path.join(os.path.dirname(__file__), "data", "MALSync")
 PAGES_PATH = os.path.join(MALSYNC_PATH, "src", "pages")
 
