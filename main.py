@@ -27,6 +27,8 @@ def get_sterm_from_malsync_page(page_path):
     if "search" not in meta_data:
         return
     meta_search = meta_data["search"]
+    if isinstance(meta_search, dict):
+        meta_search = {k.capitalize(): v for k, v in meta_search.items()}
     main_path = os.path.join(page_path, "main.ts")
     if not os.path.exists(main_path):
         name = os.path.basename(page_path)
@@ -39,8 +41,8 @@ def get_sterm_from_malsync_page(page_path):
         name = os.path.basename(page_path)
     media_type = get_type_from_main_malsync(main_text)
     if media_type is None or isinstance(meta_search, dict):
-        media_type = "both"
-    return dict(url=meta_search, name=name, media_type=media_type)
+        media_type = "Both"
+    return dict(url=meta_search, name=name, media_type=media_type.capitalize())
 
 def get_malsync_sterms():
     res = list()

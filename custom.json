@@ -2,19 +2,19 @@
     {
         "url": "https://rutracker.org/forum/tracker.php?nm={searchtermRaw}",
         "name": "RuTracker",
-        "media_type": "anime"
+        "media_type": "Anime"
     },
     {
         "url": "https://nyaa.si/?f=0&c=0_0&q={searchtermPlus}",
         "name": "Nyaa",
-        "media_type": "both"
+        "media_type": "Both"
     },
     {
         "url": {
-            "anime": "https://animelayer.ru/torrents/anime/?q={searchtermPlus}",
-            "manga": "https://animelayer.ru/torrents/manga/?q={searchtermPlus}"
+            "Anime": "https://animelayer.ru/torrents/anime/?q={searchtermPlus}",
+            "Manga": "https://animelayer.ru/torrents/manga/?q={searchtermPlus}"
         },
         "name": "Animelayer",
-        "media_type": "both"
+        "media_type": "Both"
     }
 ]
