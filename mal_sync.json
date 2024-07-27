@@ -186,7 +186,7 @@
     },
     {
         "url": "https://animeflix.gg/search/{searchterm}",
-        "name": "",
+        "name": "Animeflix",
         "media_type": "anime"
     },
     {
@@ -220,7 +220,7 @@
             "manga": "https://myanimelist.net/manga.php?q={searchterm}"
         },
         "name": "MyAnimeList",
-        "media_type": "anime"
+        "media_type": "both"
     },
     {
         "url": "https://lectortmo.com/library?_pg=1&title={searchtermPlus}",
@@ -284,7 +284,7 @@
     },
     {
         "url": "http://fanfox.net/search?title={searchtermPlus}",
-        "name": "/home/runner/work/AnMaSearchTerms/AnMaSearchTerms/data/MALSync/src/pages",
+        "name": "MangaFox",
         "media_type": "both"
     },
     {
@@ -463,7 +463,7 @@
             "manga": "https://proxer.me/search?s=search&name={searchterm}&typ=all-manga&tags=&notags=#top"
         },
         "name": "Proxer",
-        "media_type": "anime"
+        "media_type": "both"
     },
     {
         "url": "https://frixysubs.pl/anime-list?search={searchtermPlus}",

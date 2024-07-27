@@ -1,15 +1,5 @@
 [
     {
-        "url": "https://animeflix.gg/search/{searchterm}",
-        "name": "",
-        "media_type": "anime"
-    },
-    {
-        "url": "http://fanfox.net/search?title={searchtermPlus}",
-        "name": "/home/runner/work/AnMaSearchTerms/AnMaSearchTerms/data/MALSync/src/pages",
-        "media_type": "both"
-    },
-    {
         "url": "https://www.adkami.com/video?search={searchtermPlus}",
         "name": "ADKami",
         "media_type": "anime"
@@ -75,9 +65,22 @@
         "media_type": "anime"
     },
     {
+        "url": "https://animeflix.gg/search/{searchterm}",
+        "name": "Animeflix",
+        "media_type": "anime"
+    },
+    {
         "url": "https://www3.animeflv.net/browse?q={searchtermPlus}",
         "name": "Animeflv",
         "media_type": "anime"
+    },
+    {
+        "url": {
+            "anime": "https://animelayer.ru/torrents/anime/?q={searchtermPlus}",
+            "manga": "https://animelayer.ru/torrents/manga/?q={searchtermPlus}"
+        },
+        "name": "Animelayer",
+        "media_type": "both"
     },
     {
         "url": "https://www.animelon.com/search?searchTerm={searchTerm}",
@@ -265,6 +268,11 @@
         "media_type": "manga"
     },
     {
+        "url": "http://fanfox.net/search?title={searchtermPlus}",
+        "name": "MangaFox",
+        "media_type": "both"
+    },
+    {
         "url": "http://www.mangahere.cc/search?title={searchtermPlus}",
         "name": "MangaHere",
         "media_type": "manga"
@@ -355,7 +363,7 @@
             "manga": "https://myanimelist.net/manga.php?q={searchterm}"
         },
         "name": "MyAnimeList",
-        "media_type": "anime"
+        "media_type": "both"
     },
     {
         "url": "https://neoxscans.com/?post_type=wp-manga&s={searchtermPlus}",
@@ -398,7 +406,7 @@
             "manga": "https://proxer.me/search?s=search&name={searchterm}&typ=all-manga&tags=&notags=#top"
         },
         "name": "Proxer",
-        "media_type": "anime"
+        "media_type": "both"
     },
     {
         "url": "https://readmanhua.net/?s={searchtermPlus}&post_type=wp-manga",
