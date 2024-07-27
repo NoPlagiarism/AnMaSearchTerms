@@ -10,7 +10,7 @@ def get_name_from_main_malsync(raw_text):
     match = re.findall(r"\s{2}name:\s+'(.*)'", raw_text)
     if not match:
         return
-    return match[0]
+    return match[-1]
 
 def get_type_from_main_malsync(raw_text):
     match = re.findall(r"\s{2}type:\s+'(anime|manga)'", raw_text)
@@ -29,16 +29,16 @@ def get_sterm_from_malsync_page(page_path):
     meta_search = meta_data["search"]
     main_path = os.path.join(page_path, "main.ts")
     if not os.path.exists(main_path):
-        name = os.path.dirname(page_path)
+        name = os.path.basename(page_path)
         media_type = "Both"
         return dict(url=meta_search, name=name, media_type=media_type)
     with open(main_path, mode="r", encoding="utf-8") as f:
         main_text = f.read()
     name = get_name_from_main_malsync(main_text)
     if name is None:
-        name = os.path.dirname(page_path)
+        name = os.path.basename(page_path)
     media_type = get_type_from_main_malsync(main_text)
-    if media_type is None:
+    if media_type is None or isinstance(meta_search, dict):
         media_type = "both"
     return dict(url=meta_search, name=name, media_type=media_type)
 
