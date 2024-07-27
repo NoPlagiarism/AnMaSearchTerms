@@ -8,5 +8,13 @@
         "url": "https://nyaa.si/?f=0&c=0_0&q={searchtermPlus}",
         "name": "Nyaa",
         "media_type": "both"
+    },
+    {
+        "url": {
+            "anime": "https://animelayer.ru/torrents/anime/?q={searchtermPlus}",
+            "manga": "https://animelayer.ru/torrents/manga/?q={searchtermPlus}"
+        },
+        "name": "Animelayer",
+        "media_type": "both"
     }
 ]
