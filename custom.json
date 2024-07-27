@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://rutracker.org/forum/tracker.php?nm={searchtermRaw}",
+        "name": "RuTracker",
+        "media_type": "anime"
+    },
+    {
+        "url": "https://nyaa.si/?f=0&c=0_0&q={searchtermPlus}",
+        "name": "Nyaa",
+        "media_type": "anime"
+    }
+]
