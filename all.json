@@ -15,7 +15,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://smotret-anime.com/catalog/search?q={searchtermPlus}",
+        "url": "https://smotret-anime.net/catalog/search?q={searchtermPlus}",
         "name": "Anime365",
         "media_type": "Anime"
     },
@@ -248,7 +248,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://luminousscans.com/?s={searchtermPlus}",
+        "url": "https://luminous-scans.com/?s={searchtermPlus}",
         "name": "LuminousScans",
         "media_type": "Manga"
     },
