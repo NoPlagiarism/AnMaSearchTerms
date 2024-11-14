@@ -88,11 +88,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://anix.to/filter?keyword={searchtermPlus}",
-        "name": "Anix",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://www.viz.com/search?search={searchtermPlus}",
         "name": "VIZ",
         "media_type": "Manga"
@@ -216,11 +211,6 @@
         "url": "https://www.mangaread.org/?s={searchtermPlus}&post_type=wp-manga",
         "name": "MangaRead",
         "media_type": "Manga"
-    },
-    {
-        "url": "https://aniwave.to/filter?keyword={searchtermPlus}",
-        "name": "Aniwave",
-        "media_type": "Anime"
     },
     {
         "url": "http://fanfox.net/search?title={searchtermPlus}",

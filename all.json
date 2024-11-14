@@ -98,18 +98,8 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://aniwave.to/filter?keyword={searchtermPlus}",
-        "name": "Aniwave",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://aniworld.to/search?q={searchterm}",
         "name": "Aniworld",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://anix.to/filter?keyword={searchtermPlus}",
-        "name": "Anix",
         "media_type": "Anime"
     },
     {
