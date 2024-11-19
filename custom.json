@@ -16,5 +16,15 @@
         },
         "name": "Animelayer",
         "media_type": "Both"
+    },
+    {
+        "url": "https://v1.yaoilib.me/ru/catalog?q={searchtermPlus}",
+        "name": "SlashLib",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://mangalib.me/ru/catalog?q={searchtermPlus}",
+        "name": "MangaLib",
+        "media_type": "Manga"
     }
 ]
