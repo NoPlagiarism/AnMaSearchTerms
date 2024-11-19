@@ -35,6 +35,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://anilib.me/ru/catalog?q={searchterm}",
+        "name": "AnimeLib",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://anime-odcinki.pl/szukaj/{searchtermPlus}",
         "name": "AnimeOdcinki",
         "media_type": "Anime"
@@ -283,6 +288,11 @@
         "media_type": "Manga"
     },
     {
+        "url": "https://mangalib.me/ru/catalog?q={searchtermPlus}",
+        "name": "MangaLib",
+        "media_type": "Manga"
+    },
+    {
         "url": "https://manganato.com/search/story/{searchterm(_)[noSpecial]}",
         "name": "MangaNato",
         "media_type": "Manga"
@@ -412,6 +422,11 @@
         "url": "https://shinden.pl/series?search={searchtermPlus}",
         "name": "Shinden",
         "media_type": "Anime"
+    },
+    {
+        "url": "https://v1.yaoilib.me/ru/catalog?q={searchtermPlus}",
+        "name": "SlashLib",
+        "media_type": "Manga"
     },
     {
         "url": "https://sovetromantica.com/anime?query={searchterm}",

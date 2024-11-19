@@ -263,6 +263,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://anilib.me/ru/catalog?q={searchterm}",
+        "name": "AnimeLib",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://bato.to/search?word={searchtermPlus}",
         "name": "bato",
         "media_type": "Manga"
