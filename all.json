@@ -424,7 +424,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://v1.yaoilib.me/ru/catalog?q={searchtermPlus}",
+        "url": "https://v1.yaoilib.net/ru/catalog?q={searchtermPlus}",
         "name": "SlashLib",
         "media_type": "Manga"
     },
