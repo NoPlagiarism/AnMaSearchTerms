@@ -118,7 +118,7 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://bakashi.tv/?s={searchtermPlus}",
+        "url": "https://bakashi.net/?s={searchtermPlus}",
         "name": "Bakashi",
         "media_type": "Anime"
     },
@@ -285,6 +285,11 @@
     {
         "url": "http://mangakatana.com/?search={searchtermPlus}&search_by=book_name",
         "name": "MangaKatana",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://mangalib.org/ru/catalog?q={searchterm}",
+        "name": "MangaLib",
         "media_type": "Manga"
     },
     {

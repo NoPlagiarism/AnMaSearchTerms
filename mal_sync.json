@@ -48,7 +48,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://bakashi.tv/?s={searchtermPlus}",
+        "url": "https://bakashi.net/?s={searchtermPlus}",
         "name": "Bakashi",
         "media_type": "Anime"
     },
@@ -311,6 +311,11 @@
         "url": "https://yugenanime.tv/discover/?q={searchtermPlus}",
         "name": "YugenAnime",
         "media_type": "Anime"
+    },
+    {
+        "url": "https://mangalib.org/ru/catalog?q={searchterm}",
+        "name": "MangaLib",
+        "media_type": "Manga"
     },
     {
         "url": "https://sovetromantica.com/anime?query={searchterm}",
