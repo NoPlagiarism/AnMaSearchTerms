@@ -70,11 +70,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://animeflix.gg/search/{searchterm}",
-        "name": "Animeflix",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://www3.animeflv.net/browse?q={searchtermPlus}",
         "name": "Animeflv",
         "media_type": "Anime"
@@ -103,6 +98,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://aninexus.to/search/{searchterm}",
+        "name": "Aninexus",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://aniworld.to/search?q={searchterm}",
         "name": "Aniworld",
         "media_type": "Anime"
@@ -116,11 +116,6 @@
         "url": "https://asuracomics.com/?s={searchtermPlus}",
         "name": "AsuraScans",
         "media_type": "Manga"
-    },
-    {
-        "url": "https://bakashi.net/?s={searchtermPlus}",
-        "name": "Bakashi",
-        "media_type": "Anime"
     },
     {
         "url": "https://www.bentomanga.com/manga_list?search={searchterm}",
@@ -168,7 +163,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://flamecomics.com/?s={searchtermPlus}",
+        "url": "https://flamecomics.xyz/browse?search={searchterm}",
         "name": "FlameScans",
         "media_type": "Manga"
     },
@@ -414,6 +409,11 @@
         "media_type": "Both"
     },
     {
+        "url": "https://q1n.net/?s={searchtermPlus}",
+        "name": "Q1N",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://readmanhua.net/?s={searchtermPlus}&post_type=wp-manga",
         "name": "ReadManhua",
         "media_type": "Manga"
@@ -474,6 +474,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://weebcentral.com/search?text={searchterm}",
+        "name": "WeebCentral",
+        "media_type": "Manga"
+    },
+    {
         "url": "https://witanime.pics/?search_param=animes&s={searchtermPlus}",
         "name": "WitAnime",
         "media_type": "Anime"
@@ -482,11 +487,6 @@
         "url": "https://wuxiaworld.site/?s={searchtermPlus}&post_type=wp-manga",
         "name": "WuxiaWorld",
         "media_type": "Manga"
-    },
-    {
-        "url": "https://yugenanime.tv/discover/?q={searchtermPlus}",
-        "name": "YugenAnime",
-        "media_type": "Anime"
     },
     {
         "url": "https://bato.to/search?word={searchtermPlus}",
@@ -534,7 +534,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://lectortmo.com/library?_pg=1&title={searchtermPlus}",
+        "url": "https://zonatmo.com/library?_pg=1&title={searchtermPlus}",
         "name": "tmofans",
         "media_type": "Manga"
     }
