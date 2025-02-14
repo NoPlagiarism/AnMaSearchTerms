@@ -40,6 +40,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://animenosub.to/?s={searchtermPlus}",
+        "name": "AnimeNoSub",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://anime-odcinki.pl/szukaj/{searchtermPlus}",
         "name": "AnimeOdcinki",
         "media_type": "Anime"
@@ -412,6 +417,16 @@
         "url": "https://q1n.net/?s={searchtermPlus}",
         "name": "Q1N",
         "media_type": "Anime"
+    },
+    {
+        "url": "https://ranobelib.me/ru/catalog?q={searchterm}",
+        "name": "RanobeLib",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://rawkuma.com/?s={searchtermPlus}",
+        "name": "Rawkuma",
+        "media_type": "Manga"
     },
     {
         "url": "https://readmanhua.net/?s={searchtermPlus}&post_type=wp-manga",
