@@ -30,6 +30,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://animekai.to/browser?keyword={searchtermPlus}",
+        "name": "AnimeKAI",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://animeko.co/anime?search={searchtermPlus}",
         "name": "AnimeKO",
         "media_type": "Anime"
@@ -198,6 +203,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://watch.hikaritv.xyz/search?keyword={searchterm}",
+        "name": "Hikari",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://www.hinatasoul.com/busca?busca={searchtermPlus}",
         "name": "HinataSoul",
         "media_type": "Anime"
@@ -215,6 +225,11 @@
     {
         "url": "https://kaguya.app/browse?keyword={searchtermPlus}",
         "name": "Kaguya",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://kaas.am/search?q={searchterm}",
+        "name": "KickAssAnime",
         "media_type": "Anime"
     },
     {
