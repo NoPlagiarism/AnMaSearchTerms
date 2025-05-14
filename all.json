@@ -15,6 +15,11 @@
         "media_type": "Anime"
     },
     {
+        "url": "https://anidream.cc/archive/?title={searchtermPlus}",
+        "name": "AniDream",
+        "media_type": "Anime"
+    },
+    {
         "url": "https://smotret-anime.net/catalog/search?q={searchtermPlus}",
         "name": "Anime365",
         "media_type": "Anime"
@@ -37,11 +42,6 @@
     {
         "url": "https://animeko.co/anime?search={searchtermPlus}",
         "name": "AnimeKO",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://anilib.me/ru/catalog?q={searchterm}",
-        "name": "AnimeLib",
         "media_type": "Anime"
     },
     {
@@ -77,6 +77,11 @@
     {
         "url": "https://animexin.vip/?s={searchtermPlus}",
         "name": "AnimeXin",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://www.animezone.pl/szukaj?q={searchtermPlus}",
+        "name": "AnimeZone",
         "media_type": "Anime"
     },
     {
@@ -303,18 +308,8 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://mangalib.org/ru/catalog?q={searchterm}",
-        "name": "MangaLib",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://mangalib.me/ru/catalog?q={searchtermPlus}",
         "name": "MangaLib",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://manganato.com/search/story/{searchterm(_)[noSpecial]}",
-        "name": "MangaNato",
         "media_type": "Manga"
     },
     {
@@ -434,11 +429,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://ranobelib.me/ru/catalog?q={searchterm}",
-        "name": "RanobeLib",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://rawkuma.com/?s={searchtermPlus}",
         "name": "Rawkuma",
         "media_type": "Manga"
@@ -479,11 +469,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://toonily.com/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "Toonily",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://tritinia.com/?s={searchtermPlus}&post_type=wp-manga",
         "name": "TritiniaScans",
         "media_type": "Manga"
@@ -491,11 +476,6 @@
     {
         "url": "https://www.viz.com/search?search={searchtermPlus}",
         "name": "VIZ",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://hivetoon.com/?s={searchtermPlus}",
-        "name": "VoidScans",
         "media_type": "Manga"
     },
     {
