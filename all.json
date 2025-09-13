@@ -35,11 +35,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://animekai.to/browser?keyword={searchtermPlus}",
-        "name": "AnimeKAI",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://animeko.co/anime?search={searchtermPlus}",
         "name": "AnimeKO",
         "media_type": "Anime"
@@ -153,11 +148,6 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://www.crunchyroll.com/search?q={searchtermPlus}",
-        "name": "Crunchyroll",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://desu-online.pl/?s={searchtermPlus}",
         "name": "DesuOnline",
         "media_type": "Anime"
@@ -188,11 +178,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://anitaku.pe/search.html?keyword={searchterm}",
-        "name": "Gogoanime",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://hdrezka.ag/search/?do=search&subaction=search&q={searchterm}",
         "name": "Hdrezka",
         "media_type": "Anime"
@@ -205,11 +190,6 @@
     {
         "url": "https://www.hidive.com/search?q={searchtermPlus}",
         "name": "Hidive",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://watch.hikaritv.xyz/search?keyword={searchterm}",
-        "name": "Hikari",
         "media_type": "Anime"
     },
     {
@@ -484,11 +464,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://weebcentral.com/search?text={searchterm}",
-        "name": "WeebCentral",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://witanime.pics/?search_param=animes&s={searchtermPlus}",
         "name": "WitAnime",
         "media_type": "Anime"
@@ -496,11 +471,6 @@
     {
         "url": "https://wuxiaworld.site/?s={searchtermPlus}&post_type=wp-manga",
         "name": "WuxiaWorld",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://bato.to/search?word={searchtermPlus}",
-        "name": "bato",
         "media_type": "Manga"
     },
     {
