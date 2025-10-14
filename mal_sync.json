@@ -1,12 +1,7 @@
 [
     {
-        "url": "https://anidream.cc/archive/?title={searchtermPlus}",
-        "name": "AniDream",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://lscomic.com/?s={searchtermPlus}",
-        "name": "LeviatanScans",
+        "url": "https://manga4life.com/search/?name={searchterm}",
+        "name": "manga4life",
         "media_type": "Manga"
     },
     {
@@ -15,18 +10,18 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://manga4life.com/search/?name={searchterm}",
-        "name": "manga4life",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://q1n.net/?s={searchtermPlus}",
-        "name": "Q1N",
+        "url": "https://hdrezka.ag/search/?do=search&subaction=search&q={searchterm}",
+        "name": "Hdrezka",
         "media_type": "Anime"
     },
     {
-        "url": "https://manhuaus.com/?s={searchterm}&post_type=wp-manga&op=&author=&artist=&release=&adult=",
-        "name": "ManhuaUS",
+        "url": "https://okanime.tv/search?search={searchtermPlus}",
+        "name": "Okanime",
+        "media_type": "Anime"
+    },
+    {
+        "url": "http://mangakatana.com/?search={searchtermPlus}&search_by=book_name",
+        "name": "MangaKatana",
         "media_type": "Manga"
     },
     {
@@ -35,23 +30,68 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://mangajar.pro/search?q={searchtermPlus}",
-        "name": "MangaJar",
+        "url": "https://an1me.to/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "An1me",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://frixysubs.pl/anime-list?search={searchtermPlus}",
+        "name": "FrixySubs",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://anidream.cc/archive/?title={searchtermPlus}",
+        "name": "AniDream",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://shinden.pl/series?search={searchtermPlus}",
+        "name": "Shinden",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://www.animelon.com/search?searchTerm={searchTerm}",
+        "name": "Animelon",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://www.bentomanga.com/manga_list?search={searchterm}",
+        "name": "Bentomanga",
         "media_type": "Manga"
     },
     {
-        "url": "https://www.animetoast.cc/?s={searchterm}",
-        "name": "Animetoast",
+        "url": "https://lynxscans.com/comics?query={searchtermPlus}",
+        "name": "LynxScans",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://mangafire.to/filter?keyword={searchtermPlus}",
+        "name": "MangaFire",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://mangasushi.net/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "MangaSushi",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://animeko.co/anime?search={searchtermPlus}",
+        "name": "AnimeKO",
         "media_type": "Anime"
     },
     {
-        "url": "https://www.hinatasoul.com/busca?busca={searchtermPlus}",
-        "name": "HinataSoul",
+        "url": "https://latanime.org/buscar?q={searchtermPlus}",
+        "name": "Latanime",
         "media_type": "Anime"
     },
     {
-        "url": "https://www.miruro.tv/search?query={searchterm}&sort=POPULARITY_DESC",
-        "name": "Miruro",
+        "url": "https://www.animeonegai.com/es/search?q={searchterm}",
+        "name": "AnimeOnegai",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://aninexus.to/search/{searchterm}",
+        "name": "Aninexus",
         "media_type": "Anime"
     },
     {
@@ -60,18 +100,88 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://otakufr.cc/toute-la-liste-affiches/?q={searchtermPlus}",
-        "name": "OtakuFR",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://lynxscans.com/comics?query={searchtermPlus}",
-        "name": "LynxScans",
+        "url": "https://manga.bilibili.com/search?keyword={searchterm( )[noLowercase]}",
+        "name": "BilibiliComics",
         "media_type": "Manga"
     },
     {
-        "url": "https://projectsuki.com/search?q={searchtermPlus}",
-        "name": "projectsuki",
+        "url": "https://suwayomi-webui-preview.github.io/sources/all/search/?query={searchtermPlus}",
+        "name": "Suwayomi",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://luciferdonghua.in/?s={searchterm}",
+        "name": "Lucifer Donghua",
+        "media_type": "Anime"
+    },
+    {
+        "url": "http://fanfox.net/search?title={searchtermPlus}",
+        "name": "MangaFox",
+        "media_type": "Both"
+    },
+    {
+        "url": "https://mangabuddy.com/search?q={searchtermPlus}",
+        "name": "MangaBuddy",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://lhtranslation.net/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "LHTranslation",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://www.animetoast.cc/?s={searchterm}",
+        "name": "Animetoast",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://manhuaus.com/?s={searchterm}&post_type=wp-manga&op=&author=&artist=&release=&adult=",
+        "name": "ManhuaUS",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://anime-sama.fr/catalogue/",
+        "name": "AnimeSama",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://www.adkami.com/video?search={searchtermPlus}",
+        "name": "ADKami",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://kaguya.app/browse?keyword={searchtermPlus}",
+        "name": "Kaguya",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://manhuaplus.com/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "ManhuaPlus",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://mangatx.com/?s={searchtermPlus}&post_type=wp-manga&post_type=wp-manga",
+        "name": "mangatx",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://www.animezone.pl/szukaj?q={searchtermPlus}",
+        "name": "AnimeZone",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://mangadex.org/titles?q={searchterm}",
+        "name": "Mangadex",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://readmanhua.net/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "ReadManhua",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://zonatmo.com/library?_pg=1&title={searchtermPlus}",
+        "name": "tmofans",
         "media_type": "Manga"
     },
     {
@@ -80,13 +190,106 @@
         "media_type": "Manga"
     },
     {
+        "url": "https://www.otakustv.com/buscador.php?buscador={searchterm}",
+        "name": "Otakustv",
+        "media_type": "Anime"
+    },
+    {
+        "url": {
+            "Anime": "https://myanimelist.net/anime.php?q={searchterm}",
+            "Manga": "https://myanimelist.net/manga.php?q={searchterm}"
+        },
+        "name": "MyAnimeList",
+        "media_type": "Both"
+    },
+    {
+        "url": "https://www.animeonsen.xyz/search/{searchterm}",
+        "name": "AnimeOnsen",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://animebuff.ru/search?q={searchtermPlus}",
+        "name": "AnimeBuff",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://www.animesonline.in/busca?s={searchtermPlus}",
+        "name": "Animes Online",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://anime-odcinki.pl/szukaj/{searchtermPlus}",
+        "name": "AnimeOdcinki",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://smotret-anime.net/catalog/search?q={searchtermPlus}",
+        "name": "Anime365",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://mangahub.io/search?q={searchterm}",
+        "name": "MangaHub",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://neoxscans.com/?post_type=wp-manga&s={searchtermPlus}",
+        "name": "NeoxScans",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://projectsuki.com/search?q={searchtermPlus}",
+        "name": "projectsuki",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://aniyan.net/?s={searchtermPlus}",
+        "name": "Aniyan",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://tioanime.com/directorio?q={searchtermPlus}",
+        "name": "tioanime",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://mangajar.pro/search?q={searchtermPlus}",
+        "name": "MangaJar",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://serimanga.com/mangalar?search={searchtermPlus}",
+        "name": "serimanga",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://disasterscans.com/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "DisasterScans",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://wuxiaworld.site/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "WuxiaWorld",
+        "media_type": "Manga"
+    },
+    {
         "url": "https://beta.animestreamingfr.fr/catalogue/search?query={searchtermPlus}",
         "name": "AnimeStreamingFR",
         "media_type": "Anime"
     },
     {
-        "url": "https://kaguya.app/browse?keyword={searchtermPlus}",
-        "name": "Kaguya",
+        "url": "https://www.mangaread.org/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "MangaRead",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://immortalupdates.com/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "ImmortalUpdates",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://moeclip.com/search/{searchtermPlus}",
+        "name": "moeclip",
         "media_type": "Anime"
     },
     {
@@ -98,53 +301,13 @@
         "media_type": "Both"
     },
     {
-        "url": "https://mangareader.to/search?keyword={searchtermPlus}",
-        "name": "MangaReader",
+        "url": "https://mangaplus.shueisha.co.jp/search_result?keyword={searchterm}",
+        "name": "MangaPlus",
         "media_type": "Manga"
-    },
-    {
-        "url": "https://www.animelon.com/search?searchTerm={searchTerm}",
-        "name": "Animelon",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://mangatx.com/?s={searchtermPlus}&post_type=wp-manga&post_type=wp-manga",
-        "name": "mangatx",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://anime-sama.fr/catalogue/",
-        "name": "AnimeSama",
-        "media_type": "Anime"
-    },
-    {
-        "url": "http://fanfox.net/search?title={searchtermPlus}",
-        "name": "MangaFox",
-        "media_type": "Both"
-    },
-    {
-        "url": "https://vvww.toonanime.cc/?story={searchtermPlus}&do=search&subaction=search",
-        "name": "ToonAnime",
-        "media_type": "Anime"
     },
     {
         "url": "https://ogladajanime.pl/search/name/{searchtermPlus}",
         "name": "OgladajAnime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://anime-odcinki.pl/szukaj/{searchtermPlus}",
-        "name": "AnimeOdcinki",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://lhtranslation.net/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "LHTranslation",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://betteranime.net/pesquisa?titulo={searchtermPlus}",
-        "name": "BetterAnime",
         "media_type": "Anime"
     },
     {
@@ -153,54 +316,19 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://mangaplus.shueisha.co.jp/search_result?keyword={searchterm}",
-        "name": "MangaPlus",
+        "url": "https://hachi.moe/search?query={searchterm}",
+        "name": "hachi",
         "media_type": "Manga"
     },
     {
-        "url": "https://manhuaplus.com/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "ManhuaPlus",
+        "url": "https://otakufr.cc/toute-la-liste-affiches/?q={searchtermPlus}",
+        "name": "OtakuFR",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://mangasee123.com/search/?name={searchterm}",
+        "name": "MangaSee",
         "media_type": "Manga"
-    },
-    {
-        "url": "https://manga.bilibili.com/search?keyword={searchterm( )[noLowercase]}",
-        "name": "BilibiliComics",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://animexin.vip/?s={searchtermPlus}",
-        "name": "AnimeXin",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://shinden.pl/series?search={searchtermPlus}",
-        "name": "Shinden",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://sovetromantica.com/anime?query={searchterm}",
-        "name": "SovetRomantica",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://www.bentomanga.com/manga_list?search={searchterm}",
-        "name": "Bentomanga",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://jkanime.net/buscar/{searchterm}",
-        "name": "Jkanime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://www.hidive.com/search?q={searchtermPlus}",
-        "name": "Hidive",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://frixysubs.pl/anime-list?search={searchtermPlus}",
-        "name": "FrixySubs",
-        "media_type": "Anime"
     },
     {
         "url": "https://voiranime.com/?s={searchtermPlus}",
@@ -208,203 +336,8 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://mangapark.net/search?word={searchterm}",
-        "name": "MangaPark",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://www.viz.com/search?search={searchtermPlus}",
-        "name": "VIZ",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://franime.fr/recherche?search={searchtermPlus}",
-        "name": "FRAnime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://www.mangaread.org/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "MangaRead",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://disasterscans.com/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "DisasterScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://mangabuddy.com/search?q={searchtermPlus}",
-        "name": "MangaBuddy",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://manhuafast.com/?s={searchtermPlus}&post_type=wp-manga&post_type=wp-manga",
         "name": "manhuafast",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://mangas-origines.fr/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "MangasOrigines",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://asuracomics.com/?s={searchtermPlus}",
-        "name": "AsuraScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://flamecomics.xyz/browse?search={searchterm}",
-        "name": "FlameScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://immortalupdates.com/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "ImmortalUpdates",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://tioanime.com/directorio?q={searchtermPlus}",
-        "name": "tioanime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://aninexus.to/search/{searchterm}",
-        "name": "Aninexus",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://www.animeonsen.xyz/search/{searchterm}",
-        "name": "AnimeOnsen",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://www.animeonegai.com/es/search?q={searchterm}",
-        "name": "AnimeOnegai",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://tritinia.com/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "TritiniaScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://mangahub.io/search?q={searchterm}",
-        "name": "MangaHub",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://animebuff.ru/search?q={searchtermPlus}",
-        "name": "AnimeBuff",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://smotret-anime.net/catalog/search?q={searchtermPlus}",
-        "name": "Anime365",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://aniworld.to/search?q={searchterm}",
-        "name": "Aniworld",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://neoxscans.com/?post_type=wp-manga&s={searchtermPlus}",
-        "name": "NeoxScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://hianime.to/search?keyword={searchtermPlus}",
-        "name": "HiAnime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://hachi.moe/search?query={searchterm}",
-        "name": "hachi",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://monoschinos2.com/buscar?q={searchtermPlus}",
-        "name": "MonosChinos",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://zonatmo.com/library?_pg=1&title={searchtermPlus}",
-        "name": "tmofans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://animenosub.to/?s={searchtermPlus}",
-        "name": "AnimeNoSub",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://kaas.am/search?q={searchterm}",
-        "name": "KickAssAnime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "http://mangakatana.com/?search={searchtermPlus}&search_by=book_name",
-        "name": "MangaKatana",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://animationdigitalnetwork.fr/video?search={searchterm}",
-        "name": "ADN",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://luminous-scans.com/?s={searchtermPlus}",
-        "name": "LuminousScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://rawkuma.com/?s={searchtermPlus}",
-        "name": "Rawkuma",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://hdrezka.ag/search/?do=search&subaction=search&q={searchterm}",
-        "name": "Hdrezka",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://moeclip.com/search/{searchtermPlus}",
-        "name": "moeclip",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://an1me.to/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "An1me",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://mangasushi.net/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "MangaSushi",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://www.animezone.pl/szukaj?q={searchtermPlus}",
-        "name": "AnimeZone",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://www.animesonline.in/busca?s={searchtermPlus}",
-        "name": "Animes Online",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://readmanhua.net/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "ReadManhua",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://www.adkami.com/video?search={searchtermPlus}",
-        "name": "ADKami",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://comick.io/search?q={searchterm}",
-        "name": "ComicK",
         "media_type": "Manga"
     },
     {
@@ -413,61 +346,18 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://mangasee123.com/search/?name={searchterm}",
-        "name": "MangaSee",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://mangafire.to/filter?keyword={searchtermPlus}",
-        "name": "MangaFire",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://animeko.co/anime?search={searchtermPlus}",
-        "name": "AnimeKO",
+        "url": "https://monoschinos2.com/buscar?q={searchtermPlus}",
+        "name": "MonosChinos",
         "media_type": "Anime"
     },
     {
-        "url": "https://wuxiaworld.site/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "WuxiaWorld",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://latanime.org/buscar?q={searchtermPlus}",
-        "name": "Latanime",
+        "url": "https://www.hidive.com/search?q={searchtermPlus}",
+        "name": "Hidive",
         "media_type": "Anime"
     },
     {
-        "url": "https://luciferdonghua.in/?s={searchterm}",
-        "name": "Lucifer Donghua",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://mangadex.org/titles?q={searchterm}",
-        "name": "Mangadex",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://serimanga.com/mangalar?search={searchtermPlus}",
-        "name": "serimanga",
-        "media_type": "Manga"
-    },
-    {
-        "url": {
-            "Anime": "https://myanimelist.net/anime.php?q={searchterm}",
-            "Manga": "https://myanimelist.net/manga.php?q={searchterm}"
-        },
-        "name": "MyAnimeList",
-        "media_type": "Both"
-    },
-    {
-        "url": "https://suwayomi-webui-preview.github.io/sources/all/search/?query={searchtermPlus}",
-        "name": "Suwayomi",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://www.otakustv.com/buscador.php?buscador={searchterm}",
-        "name": "Otakustv",
+        "url": "https://vvww.toonanime.cc/?story={searchtermPlus}&do=search&subaction=search",
+        "name": "ToonAnime",
         "media_type": "Anime"
     },
     {
@@ -476,18 +366,63 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://kitsune.tv/shows?q={searchterm}",
-        "name": "Kitsune",
+        "url": "https://www.hinatasoul.com/busca?busca={searchtermPlus}",
+        "name": "HinataSoul",
         "media_type": "Anime"
     },
     {
-        "url": "https://aniyan.net/?s={searchtermPlus}",
-        "name": "Aniyan",
+        "url": "https://mangareader.to/search?keyword={searchtermPlus}",
+        "name": "MangaReader",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://sovetromantica.com/anime?query={searchterm}",
+        "name": "SovetRomantica",
         "media_type": "Anime"
     },
     {
-        "url": "https://okanime.tv/search?search={searchtermPlus}",
-        "name": "Okanime",
+        "url": "https://jkanime.net/buscar/{searchterm}",
+        "name": "Jkanime",
         "media_type": "Anime"
+    },
+    {
+        "url": "https://aniworld.to/search?q={searchterm}",
+        "name": "Aniworld",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://animexin.vip/?s={searchtermPlus}",
+        "name": "AnimeXin",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://mangas-origines.fr/?s={searchtermPlus}&post_type=wp-manga",
+        "name": "MangasOrigines",
+        "media_type": "Manga"
+    },
+    {
+        "url": "https://hianime.to/search?keyword={searchtermPlus}",
+        "name": "HiAnime",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://animationdigitalnetwork.fr/video?search={searchterm}",
+        "name": "ADN",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://kaas.am/search?q={searchterm}",
+        "name": "KickAssAnime",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://betteranime.net/pesquisa?titulo={searchtermPlus}",
+        "name": "BetterAnime",
+        "media_type": "Anime"
+    },
+    {
+        "url": "https://www.viz.com/search?search={searchtermPlus}",
+        "name": "VIZ",
+        "media_type": "Manga"
     }
 ]

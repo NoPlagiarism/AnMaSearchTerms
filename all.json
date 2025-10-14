@@ -40,11 +40,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://animenosub.to/?s={searchtermPlus}",
-        "name": "AnimeNoSub",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://anime-odcinki.pl/szukaj/{searchtermPlus}",
         "name": "AnimeOdcinki",
         "media_type": "Anime"
@@ -123,11 +118,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://asuracomics.com/?s={searchtermPlus}",
-        "name": "AsuraScans",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://www.bentomanga.com/manga_list?search={searchterm}",
         "name": "Bentomanga",
         "media_type": "Manga"
@@ -143,11 +133,6 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://comick.io/search?q={searchterm}",
-        "name": "ComicK",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://desu-online.pl/?s={searchtermPlus}",
         "name": "DesuOnline",
         "media_type": "Anime"
@@ -160,16 +145,6 @@
     {
         "url": "https://dynasty-scans.com/search?q={searchtermPlus}",
         "name": "DynastyScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://franime.fr/recherche?search={searchtermPlus}",
-        "name": "FRAnime",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://flamecomics.xyz/browse?search={searchterm}",
-        "name": "FlameScans",
         "media_type": "Manga"
     },
     {
@@ -218,11 +193,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://kitsune.tv/shows?q={searchterm}",
-        "name": "Kitsune",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://lhtranslation.net/?s={searchtermPlus}&post_type=wp-manga",
         "name": "LHTranslation",
         "media_type": "Manga"
@@ -233,19 +203,9 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://lscomic.com/?s={searchtermPlus}",
-        "name": "LeviatanScans",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://luciferdonghua.in/?s={searchterm}",
         "name": "Lucifer Donghua",
         "media_type": "Anime"
-    },
-    {
-        "url": "https://luminous-scans.com/?s={searchtermPlus}",
-        "name": "LuminousScans",
-        "media_type": "Manga"
     },
     {
         "url": "https://lynxscans.com/comics?query={searchtermPlus}",
@@ -293,11 +253,6 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://mangapark.net/search?word={searchterm}",
-        "name": "MangaPark",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://mangaplus.shueisha.co.jp/search_result?keyword={searchterm}",
         "name": "MangaPlus",
         "media_type": "Manga"
@@ -341,11 +296,6 @@
         "url": "https://manhuaus.com/?s={searchterm}&post_type=wp-manga&op=&author=&artist=&release=&adult=",
         "name": "ManhuaUS",
         "media_type": "Manga"
-    },
-    {
-        "url": "https://www.miruro.tv/search?query={searchterm}&sort=POPULARITY_DESC",
-        "name": "Miruro",
-        "media_type": "Anime"
     },
     {
         "url": "https://monoschinos2.com/buscar?q={searchtermPlus}",
@@ -404,16 +354,6 @@
         "media_type": "Both"
     },
     {
-        "url": "https://q1n.net/?s={searchtermPlus}",
-        "name": "Q1N",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://rawkuma.com/?s={searchtermPlus}",
-        "name": "Rawkuma",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://readmanhua.net/?s={searchtermPlus}&post_type=wp-manga",
         "name": "ReadManhua",
         "media_type": "Manga"
@@ -447,11 +387,6 @@
         "url": "https://vvww.toonanime.cc/?story={searchtermPlus}&do=search&subaction=search",
         "name": "ToonAnime",
         "media_type": "Anime"
-    },
-    {
-        "url": "https://tritinia.com/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "TritiniaScans",
-        "media_type": "Manga"
     },
     {
         "url": "https://www.viz.com/search?search={searchtermPlus}",
