@@ -253,11 +253,6 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://mangaplus.shueisha.co.jp/search_result?keyword={searchterm}",
-        "name": "MangaPlus",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://www.mangaread.org/?s={searchtermPlus}&post_type=wp-manga",
         "name": "MangaRead",
         "media_type": "Manga"
@@ -270,11 +265,6 @@
     {
         "url": "https://mangasee123.com/search/?name={searchterm}",
         "name": "MangaSee",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://mangasushi.net/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "MangaSushi",
         "media_type": "Manga"
     },
     {

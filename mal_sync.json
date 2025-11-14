@@ -70,11 +70,6 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://mangasushi.net/?s={searchtermPlus}&post_type=wp-manga",
-        "name": "MangaSushi",
-        "media_type": "Manga"
-    },
-    {
         "url": "https://animeko.co/anime?search={searchtermPlus}",
         "name": "AnimeKO",
         "media_type": "Anime"
@@ -299,11 +294,6 @@
         },
         "name": "Proxer",
         "media_type": "Both"
-    },
-    {
-        "url": "https://mangaplus.shueisha.co.jp/search_result?keyword={searchterm}",
-        "name": "MangaPlus",
-        "media_type": "Manga"
     },
     {
         "url": "https://ogladajanime.pl/search/name/{searchtermPlus}",
