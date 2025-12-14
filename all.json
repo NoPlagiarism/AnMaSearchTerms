@@ -55,13 +55,8 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://anime-sama.fr/catalogue/",
+        "url": "https://anime-sama.eu/catalogue/",
         "name": "AnimeSama",
-        "media_type": "Anime"
-    },
-    {
-        "url": "https://beta.animestreamingfr.fr/catalogue/search?query={searchtermPlus}",
-        "name": "AnimeStreamingFR",
         "media_type": "Anime"
     },
     {
@@ -140,11 +135,6 @@
     {
         "url": "https://disasterscans.com/?s={searchtermPlus}&post_type=wp-manga",
         "name": "DisasterScans",
-        "media_type": "Manga"
-    },
-    {
-        "url": "https://dynasty-scans.com/search?q={searchtermPlus}",
-        "name": "DynastyScans",
         "media_type": "Manga"
     },
     {
