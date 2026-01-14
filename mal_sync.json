@@ -5,7 +5,7 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://animego.org/search/all?q={searchterm}",
+        "url": "https://animego.me/search/all?q={searchterm}",
         "name": "AnimeGO",
         "media_type": "Anime"
     },
@@ -135,7 +135,7 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://anime-sama.eu/catalogue/",
+        "url": "https://anime-sama.tv/catalogue/?search={searchterm}",
         "name": "AnimeSama",
         "media_type": "Anime"
     },
