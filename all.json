@@ -148,11 +148,6 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://hianime.to/search?keyword={searchtermPlus}",
-        "name": "HiAnime",
-        "media_type": "Anime"
-    },
-    {
         "url": "https://www.hidive.com/search?q={searchtermPlus}",
         "name": "Hidive",
         "media_type": "Anime"
@@ -178,7 +173,7 @@
         "media_type": "Anime"
     },
     {
-        "url": "https://kaas.am/search?q={searchterm}",
+        "url": "https://kaa.lt/search?q={searchterm}",
         "name": "KickAssAnime",
         "media_type": "Anime"
     },
@@ -374,7 +369,7 @@
         "media_type": "Manga"
     },
     {
-        "url": "https://voiranime.com/?s={searchtermPlus}",
+        "url": "https://voir-anime.to/?s={searchtermPlus}",
         "name": "Voiranime",
         "media_type": "Anime"
     },
